@@ -114,7 +114,8 @@ a {
 }
 
 .team_img {
-    display: inline-flex;
+    display: flex;
+    align-content: flex-start;
 }
 
 .team {
@@ -127,6 +128,7 @@ a {
 
 .sec2content {
     display: inline-flex;
+    align-content: center;
 }
 
 .main {
